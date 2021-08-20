@@ -1,4 +1,6 @@
-i. Name: Joshua Stone, Student ID: 920144742
+Feel free to use the following information below to query my College Database on Discord using my discord bot!
+
+i. Name: Joshua Stone
 
 ii. Link to join Discord Server: https://discord.gg/72kr8cat
 
@@ -25,4 +27,3 @@ iv. Commands and Business Requirements:
     7) Show all employee information for a particular faculty member.
     8) Display the buildings in which each college campus is located.
     
-v. All code for this project can be found in main.py and database.py which are located in this directory.
